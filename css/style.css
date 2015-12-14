@@ -1,4 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400|Ubuntu);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);.navbar-default{border-color:transparent;background-color:#222;}
+*{margin:0;padding:0;box-styling:border-box;}
+body{font-family:'Montserrat' sans-serif;font-weight:400;text-rendering:optimizeLegibility;color:#000;background-color:#eee;}
+a{text-decoration:none;}
+section{padding:100px 0;}
+h2{font-family:'Raleway', sans-serif;font-size:2em;text-transform:uppercase;font-weight:700;letter-spacing:1px;margin:0;text-align:center;color:#16512f;}
+h2:after{display:block;height:3px;background-color:rgba(32,136,76,0.8);content:" ";width:150px;margin:0 auto;margin-top:20px;}
+.row{max-width:1140px;margin:0 auto;}
+.alternative{background-color:#e5e5e5;}
 .navbar-default .navbar-brand{font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;color:#27AE60;}
 .navbar-default .navabr-brand:hover ,
 .navbar-default .navabr-brand:focus ,
